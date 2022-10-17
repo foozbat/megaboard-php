@@ -1,0 +1,48 @@
+td.tableborder		{ background-color: black; }
+td.tableborder2		{ background-color: black; padding: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; }
+td.titlecell		{ background-color: #B5B8D5; font-family: verdana; font-size: 10pt; color: black; }
+td.titlecell2		{ background-color: #eeeeee; font-family: verdana; font-size: 10pt; color: black; }
+td.tablecell1		{ background-color: #eeeeee; font-family: verdana; font-size: 10pt; color: black; }
+td.tablecell2		{ background-color: #dedede; font-family: verdana; font-size: 10pt; color: black; }
+td.tablecell3		{ background-color: #eeeeee; font-family: verdana; font-size: 10pt; color: black; padding: 4px; }
+td.separatorcell	{ background-color: #B5B8D5; font-family: verdana; font-size: 10pt; color: black; }
+td.titlebar			{ background-color: #eeeeee; font-family: verdana; font-size: 10pt; color: black; }
+td.backtable		{ background-color: #D2D3E4; font-family: arial, helvetica; font-size: 13pt; color: black; }
+
+a:link				{ text-decoration:none }
+a:visited			{ text-decoration:none }
+a:hover				{ text-decoration:underline }
+
+a.threadlink:link		{ text-decoration:none }
+a.threadlink:visited	{ text-decoration:none; color: gray; }
+a.threadlink:hover		{ text-decoration:underline }
+
+a.toplink			{ font-family: verdana; font-size: 8pt; font-weight: bold; color: 000088; }	
+a					{ color: 000088; }	
+
+input.loginsmall	{	background-color: white; color: black;
+						border-width: 1; 
+						border-left-style: solid; border-left-color: black; 
+						border-right-style: solid; border-right-color: black; 
+						border-top-style: solid; border-top-color: black; 
+						border-bottom-style: solid; border-bottom-color: black;
+						font-family: arial, helvetica; font-size: 8pt; }
+
+.forminput			{	background-color: white; color: black;
+						border-width: 1; 
+						border-left-style: solid; border-left-color: black; 
+						border-right-style: solid; border-right-color: black; 
+						border-top-style: solid; border-top-color: black; 
+						border-bottom-style: solid; border-bottom-color: black;}
+
+.formbutton			{	background-color: white; cursor: hand; 
+						color: black; border-style: solid; border-width: 1;
+						font-family: verdana; font-size: 9pt; }
+
+body				{	scrollbar-face-color: white; scrollbar-shadow-color: black; 
+						scrollbar-highlight-color: white; scrollbar-3dlight-color: black; 
+						scrollbar-darkshadow-color: white; scrollbar-track-color: #eeeeee; 
+						scrollbar-arrow-color: black}
+
+font.lightcolor		{	color: #444444; }
+font.specialrank	{	color: #dd0000; }
