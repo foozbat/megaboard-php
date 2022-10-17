@@ -1,7 +1,7 @@
 # Megaboard PHP
 Rewrite of the original Megaboard in PHP 4 (archive)
 
-###OLD CODE WARNING! :)
+### OLD CODE WARNING! :)
 
 This is an archive of my rewritten message board script. It is written in procedural PHP 4 and stores data in tab-delimitted flat-files, much like its predecessor.
 
