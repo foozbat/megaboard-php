@@ -1,0 +1,57 @@
+td.tableborder		{ background-color: black; }
+td.tableborder2		{ background-color: black; padding: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; }
+td.titlecell		{ background-color: #437543; font-family: verdana; font-size: 10pt; color: white; }
+td.titlecell2		{ background-color: #BECABE; font-family: verdana; font-size: 10pt; color: black; }
+td.tablecell1		{ background-color: #BECABE; font-family: verdana; font-size: 10pt; color: black; }
+td.tablecell2		{ background-color: #A8BAA8; font-family: verdana; font-size: 10pt; color: #444444; }
+td.tablecell3		{ background-color: #BECABE; font-family: verdana; font-size: 10pt; color: black; padding: 4px; }
+td.separatorcell	{ background-color: #437543; font-family: verdana; font-size: 10pt; color: white; }
+td.titlebar			{ background-color: #5F6395; font-family: verdana; font-size: 10pt; color: white; }
+td.backtable		{ background-color: #264226; font-family: arial, helvetica; font-size: 13pt; color: white; }
+
+a:link				{ text-decoration:none }
+a:visited			{ text-decoration:none }
+a:hover				{ text-decoration:underline }
+
+a.threadlink:link		{ text-decoration:none }
+a.threadlink:visited	{ text-decoration:none; color: #666666; }
+a.threadlink:hover		{ text-decoration:underline }
+
+.specialrank		{ color: #dd0000; }
+
+a.toplink			{ font-family: verdana; font-size: 8pt; font-weight: bold; color: #D0D8D0; }	
+a					{ color: #004400; }	
+
+.unread			{ color: #004400; }
+.unread:visited	{ color: #666666; }
+.read			{ color: #666666; }
+hr.hr1				{ color: black; size: 1px; }
+
+input.loginsmall	{	background-color: #264226; color: white;
+						border-width: 1; 
+						border-left-style: solid; border-left-color: black; 
+						border-right-style: solid; border-right-color: black; 
+						border-top-style: solid; border-top-color: black; 
+						border-bottom-style: solid; border-bottom-color: black;
+						font-family: arial, helvetica; font-size: 8pt; }
+
+.forminput			{	background-color: #264226; color: white;
+						border-width: 1; 
+						border-left-style: solid; border-left-color: black; 
+						border-right-style: solid; border-right-color: black; 
+						border-top-style: solid; border-top-color: black; 
+						border-bottom-style: solid; border-bottom-color: black;}
+
+.formbutton			{	background-color: #386238; cursor: hand; 
+						color: white; border-style: solid; border-width: 1;
+						font-family: verdana; font-size: 9pt; }
+
+body				{	background-color: #386238;
+						color: white;
+						scrollbar-face-color: #BECABE; scrollbar-shadow-color: black; 
+						scrollbar-darkshadow-color: #386238; scrollbar-track-color: #264226; 
+						scrollbar-arrow-color: black}
+
+font.lightcolor		{	color: silver; }
+font.quotetext		{	color: #666666; }
+font.error			{	color: red; }
