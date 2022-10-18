@@ -1,5 +1,5 @@
 # Megaboard PHP
-Rewrite of the original Megaboard in PHP 4 (archive)
+Rewrite of the original Megaboard in PHP 4, circa 2002-2004 (archive)
 
 ### OLD CODE WARNING! :)
 
